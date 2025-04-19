@@ -1,0 +1,17 @@
+.module-common.o
+..module-common.o.cmd
+.modules.order.cmd
+.Module.symvers.cmd
+.virttablet.ko.cmd
+.virttablet.mod.cmd
+.virttablet.mod.o.cmd
+.virttablet.o.cmd
+.cache
+compile_commands.json
+modules.order
+Module.symvers
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.o
